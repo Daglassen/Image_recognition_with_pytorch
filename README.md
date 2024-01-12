@@ -1,3 +1,9 @@
+# Image_Recognition_with_PyTorch <br>
+
+**Machine Learning Project on South African coronary heart disease dataset** <br>
+
+**From Abstract** <br>
+
 In this project, we use a Bayesian Neural Network to classify
 the body part present in an X-ray image, and use different
 methods to explain how our network made this classification.
