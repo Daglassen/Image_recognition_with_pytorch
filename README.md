@@ -1,6 +1,7 @@
 # Image_Recognition_with_PyTorch <br>
 
-**Machine Learning Project on South African coronary heart disease dataset** <br>
+**EXPLAINABLE CLASSIFICATION OF X-RAY IMAGES USING BAYESIAN DEEP
+LEARNING** <br>
 
 **From Abstract** <br>
 
