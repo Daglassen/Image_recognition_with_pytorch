@@ -22,4 +22,4 @@ of the networks decision making process. We also
 find how evaluating the uncertainty of a network’s weights is
 significant in increase its explainability.
 
-![results](report%images\CAM_images)
+![results](report%images/CAM_images)
