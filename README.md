@@ -22,4 +22,6 @@ of the networks decision making process. We also
 find how evaluating the uncertainty of a network’s weights is
 significant in increase its explainability.
 
+![plot](https://github.com/Daglassen/Image_recognition_with_pytorch/blob/main/report_images/xray_samples.png)
 
+![plot](https://github.com/Daglassen/Image_recognition_with_pytorch/blob/main/report_images/CAM_images.png)
